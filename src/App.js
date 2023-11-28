@@ -34,6 +34,15 @@ export default function App() {
           <input type="submit" value="Search" />
         </form>
         <div>{information}</div>
+        <footer>
+              this project was coded by Sanelisiwe Mnguni and is {""}
+        <a href="https://github.com/Sanelly43/react-week-4/edit/main/src/App.js"
+          open-sourced on Github and {""}
+        <a href="https://rad-lebkuchen-acfa1a.netlify.app/">
+          hosted on Netlify
+          </a>
+          </footer>
+          </div>
       </div>
     </div>
   );
